@@ -1,0 +1,38 @@
+table{
+    border-collapse: collapse;
+    width: 80%;
+    
+}
+th,td{
+    border: 1px solid grey;
+      padding: 20px;
+      text-align: left;}
+
+.headings{
+    background-color: rgb(242, 166, 179);
+}
+.Jan{
+    background-color: rgb(102, 187, 221);
+}
+.Feb{
+    background-color: gray;
+}
+.Mar{
+    background-color:rgb(127, 203, 127);
+}
+.Apr{
+    background-color: rgb(243, 243, 113);
+}
+.May{
+    background-color: rgb(56, 137, 141);
+}
+.June{
+    background-color: black;
+    color: white;
+}
+.Grand{
+    background-color: greenyellow;
+}
+.total{
+    background-color: pink;
+}
